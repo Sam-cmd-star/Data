@@ -1,0 +1,9 @@
+order_id,ciudad,monto,costos,dias_entrega,review_score
+OL-1001,Sao Paulo,189.90,140.00,4,5
+OL-1002,Rio de Janeiro,320.50,280.00,11,1
+OL-1003,Belo Horizonte,95.00,70.00,3,5
+OL-1004,Salvador,410.20,350.00,9,1
+OL-1005,Curitiba,150.00,120.00,12,1
+OL-1006,Recife,88.00,75.00,10,2
+OL-1007,Fortaleza,260.00,210.00,8,3
+OL-1008,Manaus,175.00,150.00,14,1
